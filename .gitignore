@@ -1,0 +1,10 @@
+*/package-lock.json
+*/node_modules
+/frontend/.next
+.DS_Store
+*/.DS_Store
+*/.mutable
+.pins.json
+.config.json
+*/.env
+!proxy/.env
